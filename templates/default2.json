@@ -1,0 +1,50 @@
+[
+    {
+        "name":"email",
+        "message":"Please input your email",
+        "type":"string",
+        "default":""
+    },
+    {
+        "name":"phone",
+        "message":"Please input your phone",
+        "type":"string",
+        "default":""
+    },
+    {
+        "name":"address2",
+        "message":"Please input your address line 2",
+        "type":"string",
+        "default":""
+    },
+    {
+        "name":"address1",
+        "message":"Please input your address line 1",
+        "type":"string",
+        "default":""
+    },
+    {
+        "name":"country",
+        "message":"Please input your country",
+        "type":"string",
+        "default":""
+    },
+    {
+        "name":"signature",
+        "message":"Please input your signature",
+        "type":"editor",
+        "default":""
+    },
+    {
+        "name":"holder",
+        "message":"Please input this project's holder",
+        "type":"string",
+        "default":""
+    },
+    {
+        "name":"link",
+        "message":"Please input Infringing URL",
+        "type":"editor",
+        "default":""
+    }
+]

@@ -1,0 +1,27 @@
+{
+  "name": "dmca-generator",
+  "version": "0.0.1",
+  "description": "Generate standard DMCA requests based on templates",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/YuYanDev/DMCA-Generator.git"
+  },
+  "keywords": [
+    "DMCA"
+  ],
+  "author": "YuYanDev",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/YuYanDev/DMCA-Generator/issues"
+  },
+  "homepage": "https://github.com/YuYanDev/DMCA-Generator#readme",
+  "dependencies": {
+    "commander": "^2.20.0",
+    "inquirer": "^6.3.1",
+    "markdown-pdf": "^9.0.0"
+  }
+}

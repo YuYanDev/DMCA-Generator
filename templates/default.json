@@ -1,0 +1,56 @@
+[
+    {
+        "name":"Identity",
+        "message":"Are you the copyright owner or authorized to act on the copyright owner’s behalf?",
+        "type":"string",
+        "default":""
+    },
+    {
+        "name":"OriginalCopyright",
+        "message":"Please provide a detailed description of the original copyrighted work that has allegedly been infringed. If possible, include a URL to where it is posted online.",
+        "type":"string",
+        "default":""
+    },
+    {
+        "name":"InfringementLibrary",
+        "message":"What files should be taken down? Please provide URLs for each file, or if the entire repository, the repository’s URL:",
+        "type":"editor",
+        "default":""
+    },
+    {
+        "name":"InfringementLibraryFork",
+        "message":"Have you searched for any forks of the allegedly infringing files or repositories? Each fork is a distinct repository and must be identified separately if you believe it is infringing and wish to have it taken down.",
+        "type":"editor",
+        "default":""
+    },
+    {
+        "name":"License",
+        "message":"Is the work licensed under an open source license? If so, which open source license? Are the allegedly infringing files being used under the open source license, or are they in violation of the license?",
+        "type":"string",
+        "default":""
+    },
+    {
+        "name":"Solution",
+        "message":"What would be the best solution for the alleged infringement? Are there specific changes the other person can make other than removal? Can the repository be made private?",
+        "type":"string",
+        "default":""
+    },
+    {
+        "name":"InfringementPeople",
+        "message":"Do you have the alleged infringer’s contact information? If so, please provide it:",
+        "type":"editor",
+        "default":""
+    },
+    {
+        "name":"Contact",
+        "message":"So that we can get back to you, please provide either your telephone number or physical address:",
+        "type":"editor",
+        "default":""
+    },
+    {
+        "name":"Signature",
+        "message":"Please type your full legal name below to sign this request:",
+        "type":"editor",
+        "default":""
+    }
+]
