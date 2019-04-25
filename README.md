@@ -17,18 +17,11 @@ npm install
 node index.js -t default -o DMCA
 ```
 
-or
-
-``` bash
-npm install DMCA-Generator -g
-DMCA-Generator -t default -o DMCA -p '~/'
-```
-
 Arguments:
 
 * `-t` or `--template` Set the template. All templates are stored in the 'templates' folder.
 * `-o` or `--output` Set the name of the exported PDF file.
-* `-p` or `--outputpath` Set the exported directory. (If you are using the second method, I suggest you set it to the root directory `'~/'`)
+* `-p` or `--outputpath` Set the exported directory. 
 
 ---
 
