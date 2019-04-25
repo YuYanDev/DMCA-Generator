@@ -24,7 +24,7 @@ DMCA-Generator -t default -o DMCA -p '~/'
 
 * `-t` or `--template`设定模板。所有的模板存放于 `templates` 文件夹。
 * `-o` or `--output` 设定导出的PDF文件名。
-`-p` or `--outputpath` 设定导出的目录 (如果您使用的是第二种安装方式，建议设定导出路径为 `'~/'`)。
+* `-p` or `--outputpath` 设定导出的目录 (如果您使用的是第二种安装方式，建议设定导出路径为 `'~/'`)。
 
 ---
 
@@ -40,7 +40,7 @@ Markdown文件中的变量采用如下格式
 
 json文件采用如下格式
 
-``` json
+``` txt
 [
     {
         "name":"example", //变量名称

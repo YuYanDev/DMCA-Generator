@@ -28,7 +28,7 @@ Arguments:
 
 * `-t` or `--template` Set the template. All templates are stored in the 'templates' folder.
 * `-o` or `--output` Set the name of the exported PDF file.
-`-p` or `--outputpath` Set the exported directory. (If you are using the second method, I suggest you set it to the root directory `'~/'`)
+* `-p` or `--outputpath` Set the exported directory. (If you are using the second method, I suggest you set it to the root directory `'~/'`)
 
 ---
 
@@ -44,8 +44,7 @@ The variables in the Markdown file are in the following format
 
 The JSON file is in the following format
 
-
-``` json
+``` txt
 [
     {
         "name":"example", //Variable name
