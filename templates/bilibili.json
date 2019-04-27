@@ -1,0 +1,56 @@
+[
+    {
+        "name":"email",
+        "message":"Please input your email",
+        "type":"string",
+        "default":""
+    },
+    {
+        "name":"phone",
+        "message":"Please input your phone",
+        "type":"string",
+        "default":""
+    },
+    {
+        "name":"address2",
+        "message":"Please input your address line 2",
+        "type":"string",
+        "default":""
+    },
+    {
+        "name":"address1",
+        "message":"Please input your address line 1",
+        "type":"string",
+        "default":""
+    },
+    {
+        "name":"country",
+        "message":"Please input your country",
+        "type":"string",
+        "default":""
+    },
+    {
+        "name":"holder",
+        "message":"Please input this project's holder",
+        "type":"string",
+        "default":""
+    },
+    {
+        "name":"website",
+        "message":"Please input the website url of the project",
+        "type":"string",
+        "default":""
+    },
+    {
+        "name":"link",
+        "message":"Please input Infringing URL",
+        "type":"editor",
+        "default":""
+    },
+    {
+        "name":"signature",
+        "message":"Please send it through email as an attachment to github after saving it",
+        "type":"editor",
+        "default":""
+    }
+]
